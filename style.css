@@ -1,0 +1,25 @@
+
+.form1{
+    background: rgb(247, 208, 244);
+    padding:  40px;  
+    margin: auto;
+    width: 50%;
+}
+
+.form2{
+    background: rgb(200, 245, 246);
+     padding:  40px;
+     margin: auto;
+     width: 50%;
+}
+
+#num1{
+    border: 3px solid;
+    height: 30px;
+}
+
+#num2{
+    border: 3px solid;
+    height: 30px;
+}
+
